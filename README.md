@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
    cd <your-repo-directory>
 
 ## Output
-Successfuly run al 3 UI test cases but unfortunatly API test case getting failed and as per my knowledge I am not able to complete this.
+Successfuly ran all 3 UI test cases but unfortunatly one of API test case getting failed and as per my knowledge I am not able to complete this. But i tried.
 
 output imgae - https://github.com/user-attachments/assets/9a264e77-5853-483e-b6db-c78e4c8afd93
 
