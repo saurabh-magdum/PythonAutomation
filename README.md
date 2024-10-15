@@ -32,3 +32,9 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone <your-repo-url>
    cd <your-repo-directory>
+
+## Output
+Successfuly run al 3 UI test cases but unfortunatly API test case getting failed and as per my knowledge I am not able to complete this.
+
+output imgae - https://github.com/user-attachments/assets/9a264e77-5853-483e-b6db-c78e4c8afd93
+
